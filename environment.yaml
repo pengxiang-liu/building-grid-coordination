@@ -1,0 +1,23 @@
+name: ai4or
+channels:
+  - conda-forge
+dependencies:
+  - ipopt
+  - pip
+  - python=3.14
+  - pip:
+    - --extra-index-url https://download.pytorch.org/whl/cu132
+    - amplpy
+    - gurobipy
+    - jupyterlab
+    - numpy
+    - pandas
+    - matplotlib
+    - openpyxl
+    - pyomo
+    - pyscipopt
+    - scikit-learn
+    - scipy
+    - torch
+    - torchvision
+    - tqdm

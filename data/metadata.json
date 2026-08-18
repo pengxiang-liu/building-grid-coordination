@@ -1,0 +1,26 @@
+{
+    "B01_InnoCentre": {
+        "name": "InnoCentre",
+        "osm_id": "689551264",
+        "osm_type": "way",
+        "attributes": {
+            "year": 1994,
+            "type": "BUSINESS",
+            "standard": "STANDARD5",
+            "floors_ag": 6,
+            "floors_bg": 2
+        }
+    },
+    "B02_HKUST": {
+        "name": "HKUST Academic Building",
+        "osm_id": "3174704",
+        "osm_type": "relation",
+        "attributes": {
+            "year": 1991,
+            "type": "INSTITUTIONAL",
+            "standard": "STANDARD5",
+            "floors_ag": 7,
+            "floors_bg": 6
+        }
+    }
+}
